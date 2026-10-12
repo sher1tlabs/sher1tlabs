@@ -41,6 +41,8 @@ looking_for: Internships in software, embedded, and robotics
 | **Software Engineering** | OOP, data structures, algorithms, clean and testable code |
 | **Computer Engineering** | Digital logic, computer organization, microcontrollers, circuits |
 | **Robotics** | Sensors, actuators, control basics, ROS 2, computer vision |
+| **Web Development** | Responsive front ends, REST APIs, full-stack fundamentals |
+| **App Development** | Cross-platform mobile apps, UI/UX, connecting apps to hardware and APIs |
 | **Automation** | Python scripting, tooling, repeatable workflows |
 
 <br>
@@ -80,6 +82,16 @@ looking_for: Internships in software, embedded, and robotics
   <img src="https://img.shields.io/badge/NumPy-000000?style=flat-square&logo=numpy&logoColor=white" />
 </p>
 
+**Web & App**
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=white" />
+</p>
+
 **Tools & Workflow**
 
 <p>
@@ -93,7 +105,18 @@ looking_for: Internships in software, embedded, and robotics
 
 <br>
 
-## `> projects`
+## `> products`
+
+| Product | What it does | Domain |
+|---|---|---|
+| [**fixable.live**](https://fixable.live) | Software platform that detects problems and heals them automatically | Software Reliability |
+| **Consultable AI** | AI software built for consulting businesses | AI / SaaS |
+| **Avisina** | Apps for doctor and patient management | Healthcare Software |
+| [**azadana.com**](https://azadana.com) | B2B networking and trade platform connecting businesses | Web Platform / Marketplace |
+
+<br>
+
+## `> academic projects`
 
 | Project | Domain | Stack |
 |---|---|---|
