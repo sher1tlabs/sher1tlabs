@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=170&section=header&text=IBRAHIM%20KHAN&fontSize=44&fontColor=ffffff&fontAlignY=45&desc=Computer%20Engineering%20%C2%B7%20Software%20%C2%B7%20Embedded%20%C2%B7%20Robotics&descSize=15&descAlignY=68&descColor=9a9a9a" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=170&section=header&text=ADNAN%20SHER&fontSize=44&fontColor=ffffff&fontAlignY=45&desc=Computer%20Engineering%20%C2%B7%20Software%20%C2%B7%20Embedded%20%C2%B7%20Robotics&descSize=15&descAlignY=68&descColor=9a9a9a" width="100%" />
 </p>
 
 <p align="center">
@@ -11,10 +11,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/sher1tlabs"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=000000&label=VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=sher1tlabs&style=flat-square&color=000000&label=VIEWS" />
 </p>
 
 <br>
@@ -24,7 +24,7 @@
 Computer Engineering undergraduate at **COMSATS University Islamabad**, working at the boundary between software and hardware. I care about how code actually runs on silicon, from logic gates and microcontrollers up to the applications and robots built on top of them.
 
 ```yaml
-name:        Ibrahim Khan
+name:        Adnan Sher
 degree:      BS Computer Engineering
 university:  COMSATS University Islamabad
 focus:       [Software Engineering, Embedded Systems, Robotics]
@@ -120,12 +120,12 @@ looking_for: Internships in software, embedded, and robotics
 ## `> stats`
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=false&border_color=2a2a2a&bg_color=000000&title_color=ffffff&text_color=bdbdbd&icon_color=ffffff&ring_color=ffffff" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=false&border_color=2a2a2a&bg_color=000000&title_color=ffffff&text_color=bdbdbd" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sher1tlabs&show_icons=true&hide_border=false&border_color=2a2a2a&bg_color=000000&title_color=ffffff&text_color=bdbdbd&icon_color=ffffff&ring_color=ffffff" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sher1tlabs&layout=compact&hide_border=false&border_color=2a2a2a&bg_color=000000&title_color=ffffff&text_color=bdbdbd" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true&hide_title=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sher1tlabs&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true&hide_title=true" width="100%" />
 </p>
 
 <br>
